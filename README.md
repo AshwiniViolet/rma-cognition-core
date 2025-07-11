@@ -1,5 +1,7 @@
 # Reflective Memory Architecture (RMA) - Core AI Cognition Framework
 
+> A recursive, emotionally-aware AI cognition framework built for long-term memory, reflection, and self-alignment.
+
 A foundational cognitive architecture for AI agents that simulate human-like memory, reflection, emotional salience, and long-term alignment via meta-cognition.
 
 ---
