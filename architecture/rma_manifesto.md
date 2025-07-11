@@ -56,6 +56,7 @@ To truly simulate intelligence, an AI must:
 ### 2. Subconscious Ping Engine
 - Periodically resurfaces vague, lost, or suppressed ideas  
 - Allows hidden knowledge to *resurface into conscious loops*
+
 The ping engine does not operate like a traditional query. Instead, it passively traverses the agent’s memory reservoir — a structured data lake — in search of emotionally-tagged or semantically-relevant fragments.
 
 New context can act as a trigger: a phrase, goal, or emotional spike may send a signal into the memory store. If a buried idea resonates — it pings back into conscious reflection.
