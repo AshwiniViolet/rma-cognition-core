@@ -83,6 +83,10 @@ The agent revisits its own responses, beliefs, or knowledge chunks — not on co
 
 > This is where intuition forms. Where loose ideas tighten. And where raw thought becomes structured cognition.
 
+These reflections don't exist in isolation. When the agent surfaces and processes vague thoughts through this loop, **the results become training signals** — guiding internal realignment.
+
+The Guardian AI leverages these recursively crystallized insights to *tune the base model over time*. In this way, reflection feeds growth — and the agent evolves not just by feedback from the world, but by its *own mental trail*.
+
 
 ### 3.5 Vague-to-Clarity Engine
 
