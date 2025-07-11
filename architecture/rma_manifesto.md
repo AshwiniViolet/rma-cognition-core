@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 Introduction
+## Introduction
 
 Modern AI systems, despite impressive performance in pattern prediction and language generation, remain cognitively hollow. They don’t reflect. They don’t remember with relevance. They don’t question themselves. They perform, but they do not *grow*.
 
@@ -16,7 +16,7 @@ This manifesto introduces the **Reflective Memory Architecture (RMA)** — a fou
 
 ---
 
-## 🎯 Guiding Insight
+## Guiding Insight
 
 Real cognition isn’t just about reacting — it’s about recursively processing one's own thoughts, mistakes, and motivations.  
 To truly simulate intelligence, an AI must:
@@ -29,7 +29,7 @@ To truly simulate intelligence, an AI must:
 
 ---
 
-## 🔍 RMA in Contrast to Traditional Architectures
+## RMA in Contrast to Traditional Architectures
 
 | Feature | Standard LLMs | RMA |
 |--------|----------------|-----|
@@ -77,7 +77,7 @@ To truly simulate intelligence, an AI must:
 
 ---
 
-## 🧭 Design Principles
+## Design Principles
 
 - Inspired by **human mental processes**, not engineering shortcuts  
 - Memory is **alive**, not static  
@@ -87,7 +87,7 @@ To truly simulate intelligence, an AI must:
 
 ---
 
-## 📌 What RMA Is Not
+## What RMA Is Not
 
 - ❌ Just a long-term memory plugin  
 - ❌ Another wrapper around GPT  
@@ -108,7 +108,7 @@ RMA is a blueprint for an **agent that remembers, reflects, evolves, and regulat
 
 ---
 
-## 📚 Related Files
+## Related Files
 
 - [`architecture/guardian_ai.md`](guardian_ai.md) – The meta-agent that supervises and guides RMA
 - `README.md` – Project overview
@@ -116,7 +116,7 @@ RMA is a blueprint for an **agent that remembers, reflects, evolves, and regulat
 
 ---
 
-## ✉️ Final Thought
+## Final Thought
 
 > Most AI today is **smart**.  
 > We need to build AI that can also be **wise** — that learns not just from inputs, but from *itself.*
