@@ -84,6 +84,14 @@ The agent revisits its own responses, beliefs, or knowledge chunks — not on co
 > This is where intuition forms. Where loose ideas tighten. And where raw thought becomes structured cognition.
 
 
+### 3.5 Vague-to-Clarity Engine
+
+Ambiguous or under-formed ideas are not discarded — they’re stored with tags indicating emotional weight, uncertainty, or incompleteness.
+
+When new context is encountered, this engine re-scans the memory space to detect matches with previously unresolved content. If alignment emerges, the vague fragment becomes **crystallized insight**.
+
+This output is passed to the Guardian AI as part of its tuning substrate — letting the system grow from internal pattern resolution rather than just external supervision.
+
 ---
 
 ### 4. Guardian AI (Meta-Agent)
