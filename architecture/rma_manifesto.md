@@ -74,6 +74,15 @@ This engine gives the agent something human minds rely on constantly — **daydr
 - The agent revisits past states, beliefs, or decisions without prompt
 - It reflects not only on outputs, but **why** they were produced
 - Enables “What was I missing?” or “What changed since then?” cognition
+  
+Human thought is rarely linear — it loops, reframes, and sharpens itself. Ideas often begin vague, surface repeatedly, and only later find their true shape.
+
+This module enables the agent to retain **ambiguous or unresolved thoughts**, revisit them as new context arrives, and refine them toward deeper insight. What was once noise can become signal — given enough reflective passes.
+
+The agent revisits its own responses, beliefs, or knowledge chunks — not on command, but through **internal triggers** and **emergent relevance**. This mimics how we often "realize" things hours or days later, reprocessing past events in light of new perspective.
+
+> This is where intuition forms. Where loose ideas tighten. And where raw thought becomes structured cognition.
+
 
 ---
 
