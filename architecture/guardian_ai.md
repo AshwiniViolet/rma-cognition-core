@@ -74,7 +74,27 @@ Guardian AI then uses this trace as **value substrate** — guiding behavioral s
 
 ## Architecture Overview (Conceptual)
 
-   <pre> ## 🧭 Architecture Overview (Conceptual) ``` Base Model Output | ---------------- | | Immediate Intervention | | Behavior Log / Memory Store | Subconscious Ping | RMA Reflection Loop | Pseudo-Training / Value Correction | Adjusted Model Behavior ``` </pre>
+```
+## 🧭 Architecture Overview (Conceptual)
+
+            Base Model Output
+                     |
+              ----------------
+             |                |
+     Immediate Intervention   |
+                              |
+                Behavior Log / Memory Store
+                              |
+                 Subconscious Ping
+                              |
+               RMA Reflection Loop
+                              |
+      Pseudo-Training / Value Correction
+                              |
+            Adjusted Model Behavior
+
+
+```
 
 ---
 
